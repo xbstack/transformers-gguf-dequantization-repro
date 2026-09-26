@@ -71,7 +71,7 @@ The repository intentionally excludes virtual environments and downloaded model 
 
 The bilingual article adds the exact-error explanation, version compatibility boundary, test methodology and operational decision guidance:
 
-https://www.xbstack.com/en/ai/transformers-gguf-dequantizing-whole-model-fix/?utm_source=github&utm_medium=referral&utm_campaign=transformers_gguf_dequantization&utm_content=repository_readme&ref=github
+https://www.xbstack.com/en/ai/tools-lab/transformers-gguf-dequantizing-whole-model-fix/?utm_source=github&utm_medium=referral&utm_campaign=transformers_gguf_dequantization&utm_content=repository_readme&ref=github
 
 Official background:
 
