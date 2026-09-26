@@ -12,6 +12,7 @@ The important finding is that this warning was **not** an M1 Pro hardware limita
 - macOS 26.6.2, arm64
 - Python 3.10.2
 - Model: Qwen3.5-0.8B Q4_K_M
+- GGUF SHA-256: `bd258782e35f7f458f8aced1adc053e6e92e89bc735ba3be89d38a06121dc517`
 - Transformers: 5.18.0.dev0, commit 27166ea...
 - kernels: 0.17.1
 - llama-cpp-python: 0.3.35 with Metal GPU offload
