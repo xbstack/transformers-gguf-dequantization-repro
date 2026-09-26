@@ -65,3 +65,14 @@ Official background:
 - Transformers GGUF quantization documentation
 
 The repository intentionally excludes virtual environments and downloaded model weights.
+
+## XBSTACK deep article
+
+The bilingual article adds the exact-error explanation, version compatibility boundary, test methodology and operational decision guidance:
+
+https://www.xbstack.com/en/ai/transformers-gguf-dequantizing-whole-model-fix/?utm_source=github&utm_medium=referral&utm_campaign=transformers_gguf_dequantization&utm_content=repository_readme&ref=github
+
+Official background:
+
+- https://huggingface.co/blog/transformers-llama-cpp-quants
+- https://huggingface.co/docs/transformers/quantization/gguf
