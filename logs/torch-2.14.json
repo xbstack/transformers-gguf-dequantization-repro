@@ -1,0 +1,26 @@
+{
+  "environment": {
+    "hardware": "Apple M1 Pro",
+    "memory_gb": 16,
+    "macos": "26.6.2",
+    "arch": "arm64",
+    "python": "3.10.2"
+  },
+  "backend": "transformers",
+  "torch": "2.14.0",
+  "transformers": "5.18.0.dev0",
+  "kernels": "0.17.1",
+  "model": "Qwen3.5-0.8B Q4_K_M",
+  "load_s": 9.077189375,
+  "runs": [
+    29.2409725993,
+    29.4783597004,
+    27.4810956561
+  ],
+  "median_tokens_per_s": 29.2409725993,
+  "mean_tokens_per_s": 28.7334759853,
+  "peak_rss_mb": 1259.859375,
+  "mps_allocated_mb": 2879.972900390625,
+  "packed_path": false,
+  "warning": "Dequantizing the whole model, because no GGUF matmul kernel is published for this device."
+}
