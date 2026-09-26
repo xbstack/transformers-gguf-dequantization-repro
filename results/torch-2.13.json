@@ -1,0 +1,29 @@
+{
+  "environment": {
+    "hardware": "Apple M1 Pro",
+    "memory_gb": 16,
+    "macos": "26.6.2",
+    "arch": "arm64",
+    "python": "3.10.2"
+  },
+  "backend": "transformers",
+  "torch": "2.13.0",
+  "transformers": "5.18.0.dev0",
+  "kernels": "0.17.1",
+  "model": "Qwen3.5-0.8B Q4_K_M",
+  "load_s": 8.599340541,
+  "runs": [
+    75.6473779083,
+    87.1418363132,
+    80.5533955341
+  ],
+  "median_tokens_per_s": 80.5533955341,
+  "mean_tokens_per_s": 81.1142032519,
+  "peak_rss_mb": 1243.203125,
+  "mps_allocated_mb": 509.466796875,
+  "packed_path": true,
+  "residual_warnings": [
+    "No kernel mapping found for selected Qwen3.5 layers",
+    "Some operations fall back to reference PyTorch implementations"
+  ]
+}

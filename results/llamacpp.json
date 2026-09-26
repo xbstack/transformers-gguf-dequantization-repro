@@ -1,0 +1,22 @@
+{
+  "environment": {
+    "hardware": "Apple M1 Pro",
+    "memory_gb": 16,
+    "macos": "26.6.2",
+    "arch": "arm64",
+    "python": "3.10.2"
+  },
+  "backend": "llama.cpp-python",
+  "version": "0.3.35",
+  "gpu_offload_supported": true,
+  "model": "Qwen3.5-0.8B Q4_K_M",
+  "load_s": 0.431846917,
+  "runs": [
+    89.8984542739,
+    105.0111081776,
+    104.9456168821
+  ],
+  "median_tokens_per_s": 104.9456168821,
+  "mean_tokens_per_s": 99.9517264445,
+  "peak_rss_mb": 770.09375
+}
